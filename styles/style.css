@@ -45,3 +45,11 @@ body {
   font-weight: 700;
   color: white;
 }
+.wave-top {
+  width: 33%;
+  transform: translate(84%, 190%);
+}
+.wave-top2 {
+  width: 20%;
+  transform: translate(283%, 70%);
+}
